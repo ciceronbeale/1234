@@ -1,0 +1,19 @@
+{
+    "name": "TON × USDT Airdrop NFT",
+    "description": "Participate in the official $10,000 TON × USDT airdrop campaign and claim your exclusive NFT.",
+    "image": "https://i.imgur.com/HN4xlz9.jpeg",
+    "attributes": [
+        {
+            "trait_type": "Event",
+            "value": "TON × USDT Airdrop"
+        },
+        {
+            "trait_type": "Prize",
+            "value": "$10,000"
+        },
+        {
+            "trait_type": "Status",
+            "value": "Eligible"
+        }
+    ]
+}
